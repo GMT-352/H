@@ -6,8 +6,8 @@
 
 ### Team Members:
 - **Çiçek Kaya 21967627** 
-- **Görkem Görsel **
-- **Batuhan  **
+- **Görkem Görsel -**
+- **Batuhan  -**
 
 
 ## 1) A case study (region of interest): 
