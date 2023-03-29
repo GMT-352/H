@@ -5,8 +5,9 @@
 ## Assignment 2 REPORT
 
 ### Team Members:
-- **Çiçek Kaya 21967665** 
-
+- **Çiçek Kaya 21967627** 
+- **Görkem Görsel **
+- **Batuhan  **
 
 
 ## 1) A case study (region of interest): 
