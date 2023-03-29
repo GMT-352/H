@@ -5,8 +5,8 @@
 ## Assignment 2 REPORT
 
 ### Team Members:
-- **21967627 - Çiçek Kaya** 
-- **21905043 - Görkem Görsel**
+- 21967627 - Çiçek Kaya 
+- 21905043 - Görkem Görsel
 
 
 
