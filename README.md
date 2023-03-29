@@ -5,7 +5,7 @@
 ## Assignment 2 REPORT
 
 ### Team Members:
-#### Çiçek Kaya 21967627
+- **Çiçek Kaya 21967665** 
 
 
 
