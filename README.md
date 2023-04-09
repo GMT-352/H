@@ -4,6 +4,8 @@
 
 ## Assignment 2 REPORT
 
+- deneme gorkem
+
 ### Team Members:
 - 21967627 - Çiçek Kaya 
 - 21905043 - Görkem Görsel
